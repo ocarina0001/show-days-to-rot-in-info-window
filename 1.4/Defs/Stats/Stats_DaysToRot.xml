@@ -7,7 +7,7 @@
         <description>The amount of time it will take for an item to rot under normal conditions.</description>
         <category>BasicsImportant</category>
         <hideAtValue>0</hideAtValue>
-        <workerClass>DaysToRot.StatWorker_DaysToRotB</workerClass>
+        <workerClass>DaysToRot.StatWorker_DaysToRotC</workerClass>
     </StatDef>
 
 </Defs>
