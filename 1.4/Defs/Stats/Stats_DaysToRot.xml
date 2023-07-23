@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Defs>
+
+    <StatDef>
+        <defName>OCARINA_DaysToRot</defName>
+        <label>Days to rot</label>
+        <description>The amount of time it will take for an item to rot under normal conditions.</description>
+        <category>BasicsImportant</category>
+        <hideAtValue>0</hideAtValue>
+        <workerClass>DaysToRot.StatWorker_DaysToRotB</workerClass>
+    </StatDef>
+
+</Defs>
